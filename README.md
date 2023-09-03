@@ -7,7 +7,7 @@ Este paquete proporciona una forma simple de obtener saludos personalizados.
 Ejecuta el siguiente comando para instalar el paquete:
 
 ```bash
-go get -u github.com/Joselm1234/greetings.git
+go get -u github.com/Joselm1234/greetings
 ```
 
 ## Uso
