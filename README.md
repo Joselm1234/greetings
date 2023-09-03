@@ -18,8 +18,10 @@ Aquí tienes un ejemplo de como utilizar el paquete en tu codigo:
 package main
 
 import (
-    "fmt"
-    "github.com/Joselm1234/greetings"
+	"fmt"
+	"log"
+
+	"github.com/joselm1234/greetings"
 )
 
 func main() {
